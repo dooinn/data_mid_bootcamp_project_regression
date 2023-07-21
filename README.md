@@ -2,7 +2,17 @@
 
 <img src="https://images.unsplash.com/photo-1592595896551-12b371d546d5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2670&q=80" width = 800 alt="" title="" />
 
+## Table of Contents
+1. [Real Estate Price Prediction](#real-estate-price-prediction)
+2. [Project Objective](#project-objective)
+3. [Dataset](#dataset)
+4. [Tools Employed](#tools-employed)
+5. [Project Structure](#project-structure)
+6. [Conclusion](#conclusion)
+
+
 ## Project Objective
+
 This project is focused on comprehending the influential factors driving real estate prices, and utilizing Machine Learning algorithms for price prediction. Part of the Ironhack Mid-term Bootcamp, our project delves into a dataset of 22,000 properties transacted between May 2014 and May 2015 in King County, WA.
 
 ## Dataset
