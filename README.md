@@ -6,7 +6,34 @@
 This project is focused on comprehending the influential factors driving real estate prices, and utilizing Machine Learning algorithms for price prediction. Part of the Ironhack Mid-term Bootcamp, our project delves into a dataset of 22,000 properties transacted between May 2014 and May 2015 in King County, WA.
 
 ## Dataset
-Our data exhibits various house attributes, such as number of bedrooms, bathrooms, home and lot square footage, view, condition, grade, year built and renovated, zip code, latitude and longitude coordinates, and of course, the price.
+- The dataset consists of information on 22,000 properties. 
+- The dataset consists of historic data of houses sold between May 2014 to May 2015 in King County WA.
+- These are the definitions of data points provided:
+
+| Column Name   | Description                                                                 |
+| ------------- | --------------------------------------------------------------------------- |
+| id            | ID of the house                                                             |
+| date          | Date the house was sold                                                     |
+| bedrooms      | Number of bedrooms                                                          |
+| bathrooms     | Number of bathrooms                                                         |
+| sqft_living   | Square footage of the home                                                   |
+| sqft_lot      | Square footage of the lot                                                   |
+| floors        | Total floors in the house                                                   |
+| waterfront    | House which has a view to a waterfront                                      |
+| view          | Has been viewed                                                             |
+| condition     | How good the condition is overall                                           |
+| grade         | Overall grade given to the housing unit, based on King County grading system|
+| sqft_above    | Square footage of house apart from basement                                 |
+| sqft_basement | Square footage of the basement                                              |
+| yr_built      | Built Year                                                                  |
+| yr_renovated  | Year when the house was renovated                                           |
+| zipcode       | Zip code                                                                    |
+| lat           | Latitude coordinate                                                         |
+| long          | Longitude coordinate                                                        |
+| sqft_living15 | Living room area in 2015 (implies-- some renovations)                       |
+| sqft_lot15    | Lot size area in 2015 (implies-- some renovations)                          |
+| price         | Price of the house                                                          |
+| district      | District where the house is located                                         |
 
 ## Tools Employed
 - **Visualization**: Tableau
