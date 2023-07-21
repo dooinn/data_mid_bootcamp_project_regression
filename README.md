@@ -2,14 +2,6 @@
 
 <img src="https://images.unsplash.com/photo-1592595896551-12b371d546d5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2670&q=80" width = 800 alt="" title="" />
 
-## Table of Contents
-1. [Project Objective](#project-objective)
-2. [Dataset](#dataset)
-3. [Tools Employed](#tools-employed)
-4. [Repository Structure](#repository-structure)
-5. [Key Insights](#key-insights)
-6. [Useful Links](#useful-links)
-
 
 ## Project Objective
 
