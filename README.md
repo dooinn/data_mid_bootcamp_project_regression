@@ -68,7 +68,7 @@ Please find more detailed insights and methodology in the Jupyter Notebooks prov
 - [Slide Deck](https://docs.google.com/presentation/d/1gG1il8EGC39G50ztC2TZIKI9QXYdoRPitgs7tb67Qc4/edit?usp=sharing): For a comprehensive overview of our project.
 
 - [Tableau Dashboard](https://public.tableau.com/app/profile/guilherme.carvalho5990/viz/data_mid_bootcamp_project_regression_tb/Dashboard1?publish=yes): Engage with our visually pleasing interactive dashboard and delve into the King County real estate market.
-- 
+  
 - [King County Website](https://info.kingcounty.gov/assessor/esales/Glossary.aspx?type=r): Our primary dataset source. Visit for more specific insights into the property market.
 
 
